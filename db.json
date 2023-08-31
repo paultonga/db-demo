@@ -74,24 +74,6 @@
     "imageUrl": "augue"
   },
   {
-    "name": "Camera Gizmo",
-    "price": "109.99",
-    "description": "Phasellus vel lectus eget felis iaculis varius in eget velit",
-    "category": "Electronics",
-    "salesPrice": "76.99",
-    "id": 9,
-    "imageUrl": "nisi"
-  },
-  {
-    "name": "Sports Device",
-    "price": "168.99",
-    "description": "Donec convallis ac tortor vitae tincidunt",
-    "category": "Activity",
-    "salesPrice": "134.99",
-    "id": 10,
-    "imageUrl": "fames"
-  },
-  {
     "name": "Cat Instrument",
     "price": "77.95",
     "description": "Cras pharetra auctor imperdiet",
@@ -378,24 +360,6 @@
     "salesPrice": "112.95",
     "id": 45,
     "imageUrl": "turpis"
-  },
-  {
-    "name": "First Aid Whatchamacallit",
-    "price": "18.95",
-    "description": "In gravida ligula in sapien blandit volutpat",
-    "category": "Health",
-    "salesPrice": "14.99",
-    "id": 46,
-    "imageUrl": "Aenean"
-  },
-  {
-    "name": "Car Mechanism",
-    "price": "22.95",
-    "description": "Nam facilisis, turpis sed finibus venenatis, sem dolor cursus libero, id hendrerit eros enim ut eros",
-    "category": "Automotive",
-    "salesPrice": "13.95",
-    "id": 56,
-    "imageUrl": "Cras"
   },
   {
     "name": "Sports Implement",
