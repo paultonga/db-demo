@@ -56,69 +56,6 @@
     "imageUrl": "magna"
   },
   {
-    "name": "Medicine Contraption",
-    "price": "199",
-    "description": "Sed sit amet ex eros",
-    "category": "Health",
-    "salesPrice": "179.95",
-    "id": 7,
-    "imageUrl": "feugiat"
-  },
-  {
-    "name": "Game Machine",
-    "price": "70.99",
-    "description": "Mauris auctor libero eu hendrerit consectetur",
-    "category": "Entertainment",
-    "salesPrice": "63",
-    "id": 8,
-    "imageUrl": "augue"
-  },
-  {
-    "name": "Cat Instrument",
-    "price": "77.95",
-    "description": "Cras pharetra auctor imperdiet",
-    "category": "Pets",
-    "salesPrice": "46.95",
-    "id": 11,
-    "imageUrl": "ut"
-  },
-  {
-    "name": "Cooking Machine",
-    "price": "17.95",
-    "description": "Morbi ac ligula auctor, dictum orci ac, malesuada est",
-    "category": "Home",
-    "salesPrice": "11.95",
-    "id": 12,
-    "imageUrl": "amet"
-  },
-  {
-    "name": "Home Improvement Machine",
-    "price": "27.95",
-    "description": "Praesent ac nulla et nibh fringilla ultricies",
-    "category": "Home",
-    "salesPrice": "24.95",
-    "id": 13,
-    "imageUrl": "ultrices"
-  },
-  {
-    "name": "Engine Accessory",
-    "price": "95",
-    "description": "Aenean imperdiet nulla ante, vel tempor dolor consectetur quis",
-    "category": "Automotive",
-    "salesPrice": "57.99",
-    "id": 14,
-    "imageUrl": "eget"
-  },
-  {
-    "name": "Hair Care Device",
-    "price": "91.95",
-    "description": "Suspendisse id massa at velit maximus ultrices",
-    "category": "Beauty",
-    "salesPrice": "81.99",
-    "id": 15,
-    "imageUrl": "in"
-  },
-  {
     "name": "Book Equipment",
     "price": "23.95",
     "description": "Cras pharetra libero a tempor tincidunt",
@@ -126,24 +63,6 @@
     "salesPrice": "16",
     "id": 18,
     "imageUrl": "tempor"
-  },
-  {
-    "name": "Kids Gadget",
-    "price": "142",
-    "description": "Interdum et malesuada fames ac ante ipsum primis in faucibus",
-    "category": "Clothing",
-    "salesPrice": "99.95",
-    "id": 19,
-    "imageUrl": "ligula"
-  },
-  {
-    "name": "Toy Attachment",
-    "price": "177",
-    "description": "Suspendisse eleifend vulputate urna vitae ultricies",
-    "category": "Entertainment",
-    "salesPrice": "141.99",
-    "id": 20,
-    "imageUrl": "a"
   },
   {
     "name": "Mens Attachment",
