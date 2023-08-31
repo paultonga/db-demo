@@ -470,60 +470,6 @@
     "imageUrl": "massa"
   },
   {
-    "name": "Makeup Whatchamacallit",
-    "price": "66",
-    "description": "Mauris auctor libero eu hendrerit consectetur",
-    "category": "Beauty",
-    "salesPrice": "46",
-    "id": 80,
-    "imageUrl": "pretium"
-  },
-  {
-    "name": "Truck Rig",
-    "price": "28",
-    "description": "Vivamus in est et elit dignissim dignissim",
-    "category": "Automotive",
-    "salesPrice": "25.95",
-    "id": 81,
-    "imageUrl": "arcu"
-  },
-  {
-    "name": "Home Improvement Paraphernalia",
-    "price": "33.99",
-    "description": "In hac habitasse platea dictumst",
-    "category": "Home",
-    "salesPrice": "23",
-    "id": 82,
-    "imageUrl": "amet"
-  },
-  {
-    "name": "Camping Contraption",
-    "price": "30.99",
-    "description": "Cras aliquam pharetra libero nec varius",
-    "category": "Activity",
-    "salesPrice": "21.99",
-    "id": 83,
-    "imageUrl": "posuere"
-  },
-  {
-    "name": "Hair Care Gizmo",
-    "price": "73",
-    "description": "Vestibulum eu quam dapibus, suscipit massa eu, varius est",
-    "category": "Beauty",
-    "salesPrice": "58",
-    "id": 84,
-    "imageUrl": "augue"
-  },
-  {
-    "name": "Kids Paraphernalia",
-    "price": "150.95",
-    "description": "Nam commodo pulvinar augue vel euismod",
-    "category": "Clothing",
-    "salesPrice": "135",
-    "id": 90,
-    "imageUrl": "tincidunt"
-  },
-  {
     "name": "Sports Implement",
     "price": "108",
     "description": "Ut venenatis id orci quis vehicula",
