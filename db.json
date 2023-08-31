@@ -821,24 +821,6 @@
     "imageUrl": "Sed"
   },
   {
-    "name": "Gardening Whatchamacallit",
-    "price": "20.95",
-    "description": "Cras a mauris sed quam feugiat mollis id eu lorem.",
-    "category": "Home",
-    "salesPrice": "16.95",
-    "id": 92,
-    "imageUrl": "quam"
-  },
-  {
-    "name": "Technology Equipment",
-    "price": "21.95",
-    "description": "Fusce libero quam, elementum non auctor ultricies, vulputate non sem",
-    "category": "Electronics",
-    "salesPrice": "14",
-    "id": 93,
-    "imageUrl": "non"
-  },
-  {
     "name": "Sports Implement",
     "price": "108",
     "description": "Ut venenatis id orci quis vehicula",
@@ -846,62 +828,7 @@
     "salesPrice": "75.95",
     "id": 94,
     "imageUrl": "elit"
-  },
-  {
-    "name": "Cat Gadget",
-    "price": "65",
-    "description": "Sed venenatis maximus bibendum",
-    "category": "Pets",
-    "salesPrice": "39",
-    "id": 95,
-    "imageUrl": "Donec"
-  },
-  {
-    "name": "Baby Paraphernalia",
-    "price": "162.99",
-    "description": "Nullam vestibulum augue id ipsum venenatis lobortis",
-    "category": "Clothing",
-    "salesPrice": "113.99",
-    "id": 96,
-    "imageUrl": "gravida"
-  },
-  {
-    "name": "Dog Machine",
-    "price": "46",
-    "description": "Sed non varius nunc, at gravida est",
-    "category": "Pets",
-    "salesPrice": "41.99",
-    "id": 97,
-    "imageUrl": "sodales"
-  },
-  {
-    "name": "Swimming Implement",
-    "price": "189.99",
-    "description": "Donec lacinia, elit sed tincidunt dictum, mi nisl cursus arcu, et fermentum diam sem eget purus",
-    "category": "Activity",
-    "salesPrice": "151.95",
-    "id": 98,
-    "imageUrl": "Mauris"
-  },
-  {
-    "name": "Book Thingamajig",
-    "price": "139.95",
-    "description": "Etiam neque libero, semper sed ex eu, rutrum dignissim diam",
-    "category": "Entertainment",
-    "salesPrice": "83.99",
-    "id": 99,
-    "imageUrl": "ligula"
-  },
-  {
-    "name": "Truck Attachment",
-    "price": "199.95",
-    "description": "Nam sed ex mollis, luctus nisi at, rhoncus sapien",
-    "category": "Automotive",
-    "salesPrice": "179",
-    "id": 100,
-    "imageUrl": "mi"
   }
-]
   ],
   "profile": {
     "name": "SampleDB"
