@@ -137,24 +137,6 @@
     "imageUrl": "in"
   },
   {
-    "name": "Vitamin Gear",
-    "price": "163",
-    "description": "Integer quis tristique magna, eu fringilla lorem",
-    "category": "Health",
-    "salesPrice": "114.99",
-    "id": 16,
-    "imageUrl": "orci"
-  },
-  {
-    "name": "Beach Gear",
-    "price": "73.99",
-    "description": "Morbi dui metus, dignissim pretium ultrices non, tincidunt sed enim",
-    "category": "Activity",
-    "salesPrice": "65.95",
-    "id": 17,
-    "imageUrl": "vitae"
-  },
-  {
     "name": "Book Equipment",
     "price": "23.95",
     "description": "Cras pharetra libero a tempor tincidunt",
@@ -407,24 +389,6 @@
     "imageUrl": "Aenean"
   },
   {
-    "name": "Camera Contraption",
-    "price": "179",
-    "description": "Morbi vel consequat lacus",
-    "category": "Electronics",
-    "salesPrice": "125.99",
-    "id": 54,
-    "imageUrl": "semper"
-  },
-  {
-    "name": "Movie Gadget",
-    "price": "92.95",
-    "description": "Etiam tristique ex sit amet justo tristique scelerisque",
-    "category": "Entertainment",
-    "salesPrice": "55.95",
-    "id": 55,
-    "imageUrl": "sit"
-  },
-  {
     "name": "Car Mechanism",
     "price": "22.95",
     "description": "Nam facilisis, turpis sed finibus venenatis, sem dolor cursus libero, id hendrerit eros enim ut eros",
@@ -432,42 +396,6 @@
     "salesPrice": "13.95",
     "id": 56,
     "imageUrl": "Cras"
-  },
-  {
-    "name": "Music Gadget",
-    "price": "71.95",
-    "description": "Sed suscipit et mi nec lobortis",
-    "category": "Entertainment",
-    "salesPrice": "42.95",
-    "id": 57,
-    "imageUrl": "sit"
-  },
-  {
-    "name": "Makeup Rig",
-    "price": "84.95",
-    "description": "Etiam quis tortor vel ex egestas varius a et metus",
-    "category": "Beauty",
-    "salesPrice": "50.95",
-    "id": 58,
-    "imageUrl": "lorem"
-  },
-  {
-    "name": "Vitamin Gear",
-    "price": "73.99",
-    "description": "Morbi malesuada tellus sed felis euismod, id fringilla arcu posuere",
-    "category": "Health",
-    "salesPrice": "51.95",
-    "id": 65,
-    "imageUrl": "tempor"
-  },
-  {
-    "name": "Cat Widget",
-    "price": "60.99",
-    "description": "Phasellus sapien lorem, mollis vel lectus vel, bibendum fermentum ligula",
-    "category": "Pets",
-    "salesPrice": "36",
-    "id": 79,
-    "imageUrl": "massa"
   },
   {
     "name": "Sports Implement",
