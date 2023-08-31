@@ -263,15 +263,6 @@
     "imageUrl": "elementum"
   },
   {
-    "name": "Camping Component",
-    "price": "44.95",
-    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur eget risus ut velit vulputate rutrum nec eget metus",
-    "category": "Activity",
-    "salesPrice": "26",
-    "id": 30,
-    "imageUrl": "vel"
-  },
-  {
     "name": "Cooking Machine",
     "price": "189",
     "description": "Pellentesque faucibus tempor mi eget tincidunt",
@@ -758,51 +749,6 @@
     "imageUrl": "augue"
   },
   {
-    "name": "Womens Apparatus",
-    "price": "196.95",
-    "description": "Nulla in tellus augue",
-    "category": "Clothing",
-    "salesPrice": "156",
-    "id": 85,
-    "imageUrl": "venenatis"
-  },
-  {
-    "name": "Cat Implement",
-    "price": "28.95",
-    "description": "In id tortor lectus",
-    "category": "Pets",
-    "salesPrice": "16.99",
-    "id": 86,
-    "imageUrl": "faucibus"
-  },
-  {
-    "name": "Womens Doodad",
-    "price": "32.95",
-    "description": "Nunc tempus est et purus hendrerit semper vel et mauris",
-    "category": "Clothing",
-    "salesPrice": "28",
-    "id": 87,
-    "imageUrl": "nisi"
-  },
-  {
-    "name": "Camping Gear",
-    "price": "81.95",
-    "description": "Nam venenatis metus nibh, malesuada vestibulum purus consectetur eu",
-    "category": "Activity",
-    "salesPrice": "48",
-    "id": 88,
-    "imageUrl": "sit"
-  },
-  {
-    "name": "Cooking Rig",
-    "price": "168.95",
-    "description": "Proin mi magna, venenatis eu sagittis vel, porttitor vel velit",
-    "category": "Home",
-    "salesPrice": "151.99",
-    "id": 89,
-    "imageUrl": "sit"
-  },
-  {
     "name": "Kids Paraphernalia",
     "price": "150.95",
     "description": "Nam commodo pulvinar augue vel euismod",
@@ -810,15 +756,6 @@
     "salesPrice": "135",
     "id": 90,
     "imageUrl": "tincidunt"
-  },
-  {
-    "name": "Engine Gear",
-    "price": "153.99",
-    "description": "Curabitur rhoncus ultricies laoreet",
-    "category": "Automotive",
-    "salesPrice": "122",
-    "id": 91,
-    "imageUrl": "Sed"
   },
   {
     "name": "Sports Implement",
